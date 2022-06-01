@@ -1,0 +1,19 @@
+{
+  "name": "curso-puppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^28.1.0",
+    "puppeteer": "^14.1.2"
+  },
+  "devDependencies": {
+    "prettier": "^2.6.2"
+  }
+}
