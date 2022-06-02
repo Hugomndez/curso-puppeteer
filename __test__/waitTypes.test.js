@@ -44,5 +44,5 @@ describe("Wait Types", () => {
 		await page.waitForFunction(() => !document.querySelector("#example-modal-sizes-title-sm"))
 
 		await browser.close()
-	}, 50000)
+	}, 350000)
 })
